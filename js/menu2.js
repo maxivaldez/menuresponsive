@@ -22,4 +22,4 @@ if(!mediaqueryList.matches) {
 			$(this).next('.sub-menu').slideToggle();
 		});
 	});
-}
+};
