@@ -1177,6 +1177,20 @@ ul.contenedor-galeria li {
 	padding: 2px 6px;
 }
 
+.proxpartido .res {
+	display: flex;
+}
+.proxpartido .res img {
+	width: 38px;
+}
+.guion {
+	font-size: 10px;
+	margin: 0 1px;
+	color: white;
+	align-items: center;
+	display: flex;
+}
+
 .iframe-der iframe {
 	width: 100%;
 	height: 750px;
@@ -1788,4 +1802,5 @@ footer {
 	.footer-content {
 		padding: 20px 0 0 0;
 	}
+
 }
